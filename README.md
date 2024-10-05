@@ -1,13 +1,15 @@
-- 👋 Hi, I’m Daniel I. Jackson!
+**10/5/2024: Check out the new "[Project](https://github.com/users/official-daniel-jackson/projects/1)" tab to see what research topics I've been working on!**
+
+- 👋 Hi, welcome to my link hub!
 - 👀 I’m interested in building a better Siri.
 - 🌱 I’m currently learning R & Python.
-- 💞️ I’m looking to collaborate on digital health interventions.
+- 🤝 I’m looking to collaborate on digital health interventions.
 - 📫 How to reach me: daniel.jackson@nationwidechildrens.org
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I brew potions!
-- 🔗 Find me on [LinkedIn]([url](https://www.linkedin.com/in/daniel-i-jackson/)), [Google Scholar]([url](https://scholar.google.com/citations?user=pZ4_F5wAAAAJ&hl=en)), [ResearchGate]([url](https://www.researchgate.net/profile/Daniel-Jackson-52)), and [ORCID]([url](https://orcid.org/my-orcid?orcid=0009-0009-4751-1063))
+- 🎨 Pronouns: He/Him/His
+- 🔗 How to find me: Check out my links under my profile picture.
+- 🧪 Fun fact: I brew potions! Like snowglobes, but for Halloween.
 
-🧑🏾‍🔬 Bio:
+📜 Bio:
 
 _I am applying for my Ph.D. this fall (2024) for the upcoming academic year (2025-2026). If you are accepting applications, let’s talk about our research interests._
 
