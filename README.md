@@ -15,9 +15,11 @@ I am a Research Associate in the Center for Biobehavioral Heath at Nationwide Ch
 
 **🚨 Latest News:**
 
+01/07/2025 | Second published paper! Read now on [Cancer Medicine](https://doi.org/10.1002/cam4.70554).
+
 01/01/2025 | Opened a new business for selling knick-knacks; [Shimmer Shakers LLC](https://www.etsy.com/shop/ShimmerShakers?)
 
-12/15/2024 | Second paper accepted into Cancer Medicine as Open Access!
+11/01/2024 | Submitted applications for graduate school. _Now, we wait..._
 
 10/05/2024 | Check out the new "[Project](https://github.com/users/official-daniel-jackson/projects/1)" tab to see what research topics I've been working on!
 
