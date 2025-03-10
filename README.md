@@ -15,7 +15,7 @@ I am a Research Associate in the Center for Biobehavioral Heath at Nationwide Ch
 
 **🚨 Latest News:**
 
-03/10/2025 | Third published paper! [Read now on Journal of Workplace Behavioral Health](https://doi.org/10.1080/15555240.2025.2474055)
+03/10/2025 | Third published paper! Read now on [Journal of Workplace Behavioral Health](https://doi.org/10.1080/15555240.2025.2474055)
 
 03/07/2025 | Traveled to New Jersy for 'Recruitment Day' at Rutgers University.
 
