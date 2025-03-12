@@ -9,11 +9,13 @@
 
 **📜 Bio:**
 
-_I applied for my Ph.D. last fall (2024) for the upcoming academic year (2025-2026)._
+_I accepted the PhD in Computer Science & Engineering program from The Ohio State University for Fall 2025!_
 
 I am a Research Associate in the Center for Biobehavioral Heath at Nationwide Children’s Hospital. I hold a particular research interest as a quantified-selfer in implementing Personal Health Informatics, Human-Computer Interaction, and Conversational AI. I am currently working with Dr. Emre Sezgin on applications for AI in the biomedical workspace. In my free time, I like to go dancing, play video games, exercise for the next Spartan Run, revisit content creation, and manage my potion-selling business.
 
 **🚨 Latest News:**
+
+03/12/2025 | Accepted CSE PhD program at OSU for Fall 2025!
 
 03/10/2025 | Third published paper! Read now on [Journal of Workplace Behavioral Health](https://doi.org/10.1080/15555240.2025.2474055)
 
