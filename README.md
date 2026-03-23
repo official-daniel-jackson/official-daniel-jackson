@@ -1,7 +1,7 @@
 - 👋 Hi, welcome to my website!
 - 👀 I’m interested in building a better voice agent for healthcare.
-- 🌱 I’m currently expanding my network!
-- 🤝 I’m looking forward to starting future partnerships.
+- 🌱 I’m currently working on my core corses!
+- 🤝 I’m looking forward to building my own assistants.
 - 📫 How to reach me: dansonjackiel@gmail.com
 - 🎨 Pronouns: He/Him/His
 - 🔗 How to find me: Check out my links under my profile picture.
@@ -9,7 +9,7 @@
 
 **📜 Bio:**
 
-I am a CSE Ph.D. Student at OSU, Graduate Teaching Associate for the Dept. of CSE at OSU, and a Research Associate in the Center for Biobehavioral Heath at Nationwide Children’s Hospital. I hold a particular research interest developing prototypes and interaction capabilities for voice assistants. I am currently working with Dr. Emre Sezgin to support development of a novel chatbot design for community resources. In my free time, I like to go dancing, play video games, create/stream community content online, and manage my potion business.
+I am a CSE Ph.D. Student at OSU, Graduate Teaching Associate for the Dept. of CSE at OSU, and a Research Associate in the Center for Biobehavioral Heath at Nationwide Children’s Hospital. I hold a particular research interest improving reasoning over audio in agents, such as end-to-end voice models. I am currently working with Dr. Emre Sezgin & Dr. Eric Fossler-Lussier on interdiciplinary problems between healthcare and computer science. In my free time, I like to go dancing, play video games, create/stream community content online, and manage my potion business.
 
 **🚨 Latest News:**
 
