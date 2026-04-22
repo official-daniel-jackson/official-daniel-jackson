@@ -13,7 +13,11 @@ I am a CSE Ph.D. Student at OSU, Graduate Teaching Associate for the Dept. of CS
 
 **🚨 Latest News:**
 
-11/12/2025 | 7th published paper! Read now on [Journal of Medical Internet Research](https://doi.org/10.2196/78793)
+04/22/2026 | 9th published paper! Read now on [PLOS One](https://doi.org/10.1371/journal.pone.0337868).
+
+03/31/2026 | 8th published paper! Read now on [Nature Scientific Reports](https://doi.org/10.1038/s41598-026-45719-3).
+
+11/12/2025 | 7th published paper! Read now on [Journal of Medical Internet Research](https://doi.org/10.2196/78793).
 
 09/15/2025 | 6th published paper! Read now on [JMIR Serious Games](https://doi.org/10.2196/70817).
 
