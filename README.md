@@ -37,6 +37,6 @@ I am a CSE Ph.D. Student at OSU, Graduate Teaching Associate for the Dept. of CS
 
 11/01/2024 | Submitted applications for graduate school. _Now, we wait..._
 
-10/01/2024 | 2nd published paper! Read now on [JMIR Pediatrics and Parenting](https://doi.org/10.2196.58101).
+10/01/2024 | 2nd published paper! Read now on [JMIR Pediatrics and Parenting](https://doi.org/10.2196/58101).
 
 08/29/2024 | 1st published paper! Read now on [SAGE Digital Health](https://doi.org/10.1177/20552076251326160).
