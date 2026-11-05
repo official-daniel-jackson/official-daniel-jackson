@@ -9,9 +9,15 @@
 
 **📜 Bio:**
 
-I am a CSE Ph.D. Student at OSU, Graduate Teaching Associate for the Dept. of CSE at OSU, and a Research Associate in the Center for Biobehavioral Heath at Nationwide Children’s Hospital. I hold a particular research interest improving reasoning over audio in agents, such as end-to-end voice models. I am currently working with Dr. Emre Sezgin & Dr. Eric Fossler-Lussier on interdiciplinary problems between healthcare and computer science. In my free time, I like to go dancing, play video games, create/stream community content online, and manage my potion business.
+I am a CSE Ph.D. Student at OSU, Graduate Teaching Associate for the Dept. of CSE at OSU, and a Research Associate in the Center for Biobehavioral Heath at Nationwide Children’s Hospital. I hold a particular research interest improving representations in conversational, clinical data. I am currently working with Dr. Emre Sezgin & Dr. Eric Fossler-Lussier on interdisciplinary problems between healthcare and computer science. In my free time, I like to go dancing, play video games, create/stream community content online, and manage my potion business.
 
 **🚨 Latest News:**
+
+10/30/2026 | 12th published paper! Read now on [PLOS Digital Health](https://doi.org/10.1371/journal.pdig.0001789).
+
+08/28/2026 | 11th published paper! Read now on [Computers in Human Behavior: Artificial Humans](https://doi.org/10.1016/j.chbah.2026.100389).
+
+07/30/2026 | 10th published paper! Read now on [Early Intervention in Psychiatry](https://doi.org/10.1111/eip.70230).
 
 04/22/2026 | 9th published paper! Read now on [PLOS One](https://doi.org/10.1371/journal.pone.0337868).
 
