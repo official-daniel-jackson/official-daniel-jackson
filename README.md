@@ -1,6 +1,6 @@
 - 👋 Hi, welcome to my website!
-- 👀 I’m interested in building a better voice agent for healthcare.
-- 🌱 I’m currently working on my core corses!
+- 👀 I’m interested in summer internships.
+- 🌱 I’m currently working on pediatric mental health predictions!
 - 🤝 I’m looking forward to building my own assistants.
 - 📫 How to reach me: dansonjackiel@gmail.com
 - 🎨 Pronouns: He/Him/His
@@ -9,7 +9,7 @@
 
 **📜 Bio:**
 
-I am a CSE Ph.D. Student at OSU, Graduate Teaching Associate for the Dept. of CSE at OSU, and a Research Associate in the Center for Biobehavioral Heath at Nationwide Children’s Hospital. I hold a particular research interest improving representations in conversational, clinical data. I am currently working with Dr. Emre Sezgin & Dr. Eric Fossler-Lussier on interdisciplinary problems between healthcare and computer science. In my free time, I like to go dancing, play video games, create/stream community content online, and manage my potion business.
+I am a CSE PhD Student at OSU, Graduate Teaching Associate for the Dept. of CSE at OSU, and a Research Associate in the Center for Biobehavioral Heath at Nationwide Children’s Hospital. I hold a particular research interest improving representations in conversational, clinical data. I am currently working with Dr. Emre Sezgin & Dr. Eric Fossler-Lussier on interdisciplinary problems between healthcare and computer science. In my free time, I like to go dancing, play video games, create/stream community content online, and manage my potion business.
 
 **🚨 Latest News:**
 
